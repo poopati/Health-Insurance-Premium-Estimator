@@ -1,6 +1,6 @@
 import streamlit as st
 from prediction_helper import predict
-st.title('Health Insurance Cost Predictor')
+st.title('Health Insurance Premium Estimator')
 
 
 categorical_options = {
